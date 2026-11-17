@@ -17,6 +17,7 @@ I'm a **Computer Science undergraduate** at the University of Catania (DMI) and 
 ---
 
 ### 📌 Featured Projects
-- **CPU Scheduler Simulator:** Interactive web-based simulation of OS process scheduling algorithms built with HTML, CSS, and JavaScript.
-- **Intel 8086 Assembly Calculator:** Low-level arithmetic calculator written in pure 8086 Assembly, handling registers, memory addressing, and I/O interrupts.
+- **[Scheduler-Simulator](https://github.com/PizzaRevolutions/Scheduler-Simulator):** Interactive web-based simulation of OS process scheduling algorithms built with HTML, CSS, and JavaScript.
+- **[Thread-Chess](https://github.com/PizzaRevolutions/Thread-Chess):** Multithreaded client-server chess game built using TCP sockets and concurrent session handling.
+- **[AssemblyCalculator](https://github.com/PizzaRevolutions/AssemblyCalculator):** Low-level arithmetic calculator written in pure Intel 8086 Assembly, handling registers, memory addressing, and I/O interrupts.
 - **Magma Hub *(Private Repo — Architecture Case Study)*:** Full-stack organizational platform built from scratch for a youth digital media team.
