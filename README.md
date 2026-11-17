@@ -12,10 +12,7 @@ I'm a **Computer Science undergraduate** at the University of Catania (DMI) and 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** C++, Python, JavaScript, PHP, SQL, Intel 8086 Assembly
-- **Frontend:** HTML5, CSS3, Tailwind CSS, Vite
-- **Backend & DB:** MySQL 8.0, Linux Server Admin, GitHub Actions (CI/CD)
-- **Tools:** Git, VS Code, Docker, Figma
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,tailwind,php,mysql,git,github,linux,vscode)](https://skillicons.dev)
 
 ---
 
